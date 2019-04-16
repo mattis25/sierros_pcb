@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name sierros-rescue)(type Legacy)(uri ${KIPRJMOD}/sierros-rescue.lib)(options "")(descr ""))
+  (lib (name devboard_io-rescue)(type Legacy)(uri ${KIPRJMOD}/devboard_io-rescue.lib)(options "")(descr ""))
+)

@@ -1,0 +1,11 @@
+C: 34
+R: 23
+FB: 4
+Switch: 2
+Led: 2
+Diode: 5
+IC: 4
+
+74 composants
+
+
